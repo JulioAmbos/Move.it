@@ -1,4 +1,4 @@
-<h1 align="center">Move.it - NLW-4</h1>
+<h1 align="center">Move.it - NLW 04</h1>
 
 <p align="center">
 <img alt="move.it" title="Move.it" src="https://github.com/JulioAmbos/NLW-04-MOVEIT-NEXT/blob/main/public/favicon.png" />
