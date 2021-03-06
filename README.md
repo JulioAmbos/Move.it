@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido durante a trilha de React, na quarta edição da N
   <img alt=""  src="public/new_level.jpg" width="100%">  
 </p>
 
-## 🔥 Preview
+## 🔥 Para visualizar e testar online (Overview Vercel):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://move-it-zeta-orpin.vercel.app/)
 
