@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido durante a trilha de React, na quarta edição da N
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-next-julio-ambos.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://move-it-zeta-orpin.vercel.app/)
 
 ## 🚀 Como executar
 
