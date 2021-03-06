@@ -1,5 +1,5 @@
 <h1 align="center">Move.it - NLW-4</h1>
-<img alt="move.it" title="Move.it" src="../public/favicon.png" />
+<img alt="move.it" title="Move.it" src="./favicon.png" />
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
