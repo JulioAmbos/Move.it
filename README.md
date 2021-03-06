@@ -1,10 +1,12 @@
 <h1 align="center">Move.it - NLW-4</h1>
-<img alt="move.it" title="Move.it" src="./favicon.png" />
+
+<p align="center">
+<img alt="move.it" title="Move.it" src="https://github.com/JulioAmbos/NLW-04-MOVEIT-NEXT/blob/main/public/favicon.png" />
+</p>  
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Preview">Diagrama</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
