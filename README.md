@@ -63,6 +63,10 @@ A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
 Esse projeto está sob a licença MIT. 
 
+## Agradecimentos
+
+A dedicação do Professor Diego Fernandes. Muito obrigado Professor! 
+
 ---
 
 Feito com ♥ by [Julio Moraes](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-ambos-moraes-2685381ba/)
